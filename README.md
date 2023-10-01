@@ -1,5 +1,5 @@
 # GeeksforGeeks_all_DSA_problems
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png">
+<p align="center"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png"></p><br>
 <p>👋 Hello there,<br>
 Welcome to our GeeksforGeeks DSA Problems Repository! We're thrilled to have you here as part of our coding community.<br>
 Our repository is a treasure trove of DSA problems, solutions, and explanations to help you on your coding journey.<br>
