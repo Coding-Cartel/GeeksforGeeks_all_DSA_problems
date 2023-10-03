@@ -1,9 +1,10 @@
-class Solution {
+class Solution
+{
 public:
     int PalinArray(int a[], int n)
     {
-    	// code here
-    	for (int i = 0; i < n; i++)
+        // code here
+        for (int i = 0; i < n; i++)
         {
             int reversed_num = 0, remain, original;
             original = a[i];
